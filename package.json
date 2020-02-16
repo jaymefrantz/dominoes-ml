@@ -1,0 +1,21 @@
+{
+  "name": "dominos-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.5.1",
+    "csv": "^5.3.1",
+    "exif": "^0.6.0",
+    "exif-reader": "^1.0.3",
+    "jimp": "^0.9.3",
+    "jpeg-autorotate": "^5.0.2",
+    "ml5": "^0.4.3",
+    "tfrecord": "^0.2.0"
+  }
+}
